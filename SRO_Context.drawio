@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T14:08:10.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.7" etag="AkC26nSabcDWucyASEj3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T14:12:19.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.7" etag="0-vfmt6EF7FSovC_FTaM" type="github">
   <diagram id="JXz0fbud5Zy2-RZ22Po4" name="Página-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-1" value="Corporation &lt;br&gt;Event Bus" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-1" value="Corporation &lt;br&gt;Event Bus" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-2" value="Internal&amp;nbsp;&lt;br&gt;Event Bus" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-2" value="Internal&amp;nbsp;&lt;br&gt;Event Bus" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="785.5" y="200" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-3" target="SmAF9EpFpeMBaTRaSpVy-1">
@@ -70,7 +70,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-3" value="SRO Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-3" value="SRO Adapter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="125.5" y="380" width="840" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.108;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-4" target="SmAF9EpFpeMBaTRaSpVy-3">
@@ -97,7 +97,7 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-4" value="SRO Issuance API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-4" value="SRO Issuance API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="125.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.393;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-5" target="SmAF9EpFpeMBaTRaSpVy-3">
@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-5" value="SRO Financial API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-5" value="SRO Financial API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.679;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-6" target="SmAF9EpFpeMBaTRaSpVy-3">
@@ -151,7 +151,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-6" value="SRO Reinsurance API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-6" value="SRO Reinsurance API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="605.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.964;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-7" target="SmAF9EpFpeMBaTRaSpVy-3">
@@ -178,7 +178,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-7" value="SRO Claim API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-7" value="SRO Claim API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="845.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-11" target="SmAF9EpFpeMBaTRaSpVy-1">
@@ -193,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-11" value="Product Issuance A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-11" value="Event Generator&amp;nbsp;&lt;br&gt;System A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-12" target="SmAF9EpFpeMBaTRaSpVy-1">
@@ -204,7 +204,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-12" value="Product Issuance B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-12" value="Event Generator&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;System B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-13" target="SmAF9EpFpeMBaTRaSpVy-1">
@@ -219,7 +219,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-13" value="Product Issuance C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-13" value="Event Generator&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;System C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmAF9EpFpeMBaTRaSpVy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SmAF9EpFpeMBaTRaSpVy-14" target="SmAF9EpFpeMBaTRaSpVy-2">
@@ -230,19 +230,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-14" value="SRO Manager API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-14" value="SRO Manager API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="800.5" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-45" value="SRO Storage" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-45" value="SRO Storage" style="swimlane;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="125.5" y="690" width="840" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-46" value="Amazon S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="SmAF9EpFpeMBaTRaSpVy-45">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-46" value="Amazon S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="SmAF9EpFpeMBaTRaSpVy-45">
           <mxGeometry x="514.5" y="30" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-47" value="Azure Table Storage" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="SmAF9EpFpeMBaTRaSpVy-45">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-47" value="Azure Table Storage" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="SmAF9EpFpeMBaTRaSpVy-45">
           <mxGeometry x="230" y="30" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SmAF9EpFpeMBaTRaSpVy-52" value="Register API (B3)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="SmAF9EpFpeMBaTRaSpVy-52" value="Register API (B3)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="740" y="392.5" width="765" height="60" as="geometry" />
         </mxCell>
       </root>
